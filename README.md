@@ -10,7 +10,8 @@ All purchase links preserve `https://shop.schoolshopping.org/index.asp?PID=15289
 ## Sources
 - School branding: https://grms.srvusd.net (primary red #8a0000 taken from the school website stylesheet).
 - Gryphon logo: the school's publicly available website logo.
-- Flyer: user-supplied IMG_0767.png. Dates are reproduced without adding a year; delivery is an estimate. Reconfirm dates before reusing this page for another campaign.
+
+This is an online-only fundraiser page. Product availability, pricing, deadlines, and fulfillment are handled by the linked shop. No flyer terms are used.
 
 ## Preview locally
 Run `python3 -m http.server 8000` in this directory and open http://localhost:8000.
