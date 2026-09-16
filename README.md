@@ -17,3 +17,6 @@ This is an online-only fundraiser page. Product availability, pricing, deadlines
 
 ## Preview locally
 Run `python3 -m http.server 8000` in this directory and open http://localhost:8000.
+
+## Fundraiser progress
+The hourly GitHub Actions workflow reads only the public totals at the fundraiser link, saves progress.json, and deploys the static site. Scheduled runs can be delayed by GitHub. Failed reads preserve the last good count; the page labels data older than three hours. Run the workflow manually to refresh sooner. GitHub may disable schedules after 60 days of repository inactivity.
