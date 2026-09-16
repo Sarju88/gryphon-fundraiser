@@ -1,6 +1,8 @@
 # Gryphon Performing Arts Fundraiser
 
-A responsive, dependency-free fundraiser page for Gale Ranch Middle School. Hosted with GitHub Pages from the root of `main`.
+A responsive, dependency-free fundraiser page for Gale Ranch Middle School. Hosted with GitHub Pages from the root of `main` at https://donate.arjunrao.dev.
+
+DNS: CNAME `donate` → `sarju88.github.io` (DNS only).
 
 ## Update
 Edit `index.html` for fundraiser copy and shopping links; edit `styles.css` for presentation. Push to `main` to publish.
